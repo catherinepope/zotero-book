@@ -1,7 +1,7 @@
 ---
 title: "Introduction"
 linkTitle: "Introduction"
-weight: 2
+weight: 1
 description: >
   Why, who, and what?
 ---
@@ -59,3 +59,5 @@ The screenshots in this ebook are from Windows version 5.0.93 of Zotero, but the
 You don’t need to read all this ebook if you’re already familiar with some aspects of Zotero. You can jump around using either the table of contents or the hyperlinks. 
 
 OK, if you already have Zotero installed, you can skip to Getting Started, otherwise let’s do that now.
+
+* [Getting Started](/docs/getting-started/): Get started with $project
