@@ -14,6 +14,8 @@ If you already have Zotero installed, you can skip to the next chapter.
 
 Otherwise, head over to www.zotero.org and click the big red Download button.
 
+![Zotero website](Zotero-website.png)
+
 The webpage should automatically detect what platform and web browser you’re using – in this case, it’s Windows and Chrome.
 
 You’ll also need Zotero Connector. This connects your web browser and Zotero, and is available for Chrome, Safari, Firefox, and Microsoft Edge. Don’t worry about the Connector for now – you’ll be prompted again once you’ve installed Zotero.
