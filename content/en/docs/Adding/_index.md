@@ -37,5 +37,10 @@ Much better!
 This also works on the Short Title field. This field is used for an abbreviated version of your book title that’s displayed in subsequent references. The full version appears only once. If you have a really long title, you don’t want to have to include the whole thing every time (especially if you’re working against a word limit). 
 
 In this example, I've saved 10 words by including a short title.
+
 Sometimes if a database isn’t compatible with Zotero, there will be an option to download a citation – it might say Export to EndNote or Reference Manager or Export to RIS. Choosing this option downloads a RIS file which, when double-clicked, will add the citation to your Zotero library.
+
+## Adding by Identifier
+
+If you have a publication with an identifier, you can simply type it in and Zotero will retrieve the details. Compatible identifiers include ISBNs on books, DOIs (Digital Object Identifiers) for online journal articles, PMIDs for the PubMed database, and IDs for the arXiv.org repository. Click the magic wand icon and add your number.
 
