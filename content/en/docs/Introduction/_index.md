@@ -48,7 +48,7 @@ Also, I’m assuming you have a desktop computer or laptop, an internet connecti
 
 The screenshots in this ebook are from Windows version 5.0.93 of Zotero, but the interface is very similar on a Mac. I’ll highlight any differences as we go along.
 
-## How to use this book
+### How to use this book
 
 You don’t need to read all this ebook if you’re already familiar with some aspects of Zotero. You can jump around using either the table of contents or the hyperlinks. 
 
