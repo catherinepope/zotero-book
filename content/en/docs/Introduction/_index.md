@@ -2,15 +2,9 @@
 title: "Introduction"
 linkTitle: "Introduction"
 weight: 1
-description: >
-  Why, who, and what?
 ---
 
-{{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
-{{% /pageinfo %}}
-
-## What is Zotero?
+### What is Zotero?
 
 Zotero (pronounced zoh-TAIR-oh) is a free tool to help you collect, manage, cite, and share your bibliographic information. It’s a personal digital library with an easy-to-use and intuitive interface. If you’re handling more than a few dozen citations in your research project, Zotero will make life much easier for you. It’s available for Mac, Windows, and Linux, and also works across most mobile devices, so you’ll have your Zotero library wherever you go. 
 
@@ -22,11 +16,11 @@ With a few clicks, you can export bibliographies in a variety of formats, and it
 
 In short, it’s great!
 
-## Who is behind it? 
+### Who is behind it? 
 
 Zotero is a project of the Roy Rosenzweig Center for History and New Media at George Mason University. As an educational institution, they have an interest in the availability of a really good tool for managing bibliographic data. Consequently, they’re committed to the development of Zotero and ensuring its long-term future. Which brings me to why I’m recommending Zotero.
  
-## Why Zotero?
+### Why Zotero?
 
 There are now at least half-a-dozen widely used reference management applications, all of which have their fans. I’m going to mention a couple of them very briefly to explain why I’m championing Zotero. EndNote, owned by Thomson Reuters, used to be the industry leader. Although EndNote is similar to Zotero in terms of functionality, many users (including me) find the interface rather clunky, and it has an unfortunate tendency to mess up formatting in Word. I’ve encountered quite a few distraught doctoral researchers who have been obliged to retype their entire theses after EndNote caused problems. You also have to pay around £80 for the privilege of installing it on your own computer – rather a lot of money for something that might make you unhappy.
 
@@ -47,7 +41,7 @@ Who this ebook is for
 
 This ebook is for anyone who is working with references, citations, and bibliographies and wants a better way of managing them. You might be an academic, a student, or a non-fiction writer.
 
-## Assumptions
+### Assumptions
 
 I’m not assuming prior experience of Zotero, or any other bibliographic management software, but I am expecting a reasonable level of IT literacy, e.g. that you know what I mean by copying and pasting and right-clicking (control-clicking on the Mac). 
 Also, I’m assuming you have a desktop computer or laptop, an internet connection, and the necessary permissions to install software (this might not be the case on a work or university computer). You should also have MS Word or OpenOffice installed if you want to create citations with Zotero. Alternatively, you could use Google Docs, although there are a few limitations (see Chapter Seven).
@@ -58,6 +52,4 @@ The screenshots in this ebook are from Windows version 5.0.93 of Zotero, but the
 
 You don’t need to read all this ebook if you’re already familiar with some aspects of Zotero. You can jump around using either the table of contents or the hyperlinks. 
 
-OK, if you already have Zotero installed, you can skip to Getting Started, otherwise let’s do that now.
-
-* [Getting Started](/docs/getting-started/): Get started with $project
+OK, if you already have Zotero installed, you can skip to [Getting Started](/docs/getting-started/), otherwise let’s do that now.
