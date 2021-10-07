@@ -1,7 +1,7 @@
 ---
 title: "Organising Your Items"
 linkTitle: "Organising Your Items"
-weight: 8
+weight: 6
 description: >
   Get your shit together
 ---
